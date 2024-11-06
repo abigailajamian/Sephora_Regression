@@ -18,7 +18,7 @@ Exploritory Data Analysis (EDA) can be found in the following [Jypter Notebook](
 
 Regression Anaysis can be found in the following [Jupyter Notebook](Notebooks/ordinal.ipynb).  
 
-The executive summary is linked [here](Executive_Summary(1).pdf).
+The executive summary is linked [here](Executive_Summary.pdf).
 
 The final presentation is linked [here](Presentation1.pdf). 
 
