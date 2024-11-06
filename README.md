@@ -22,3 +22,5 @@ The executive summary is linked [here](Executive_Summary.pdf).
 
 The final presentation is linked [here](Presentation1.pdf). 
 
+*Shown below is an excerpt from the analysis. A graph showing the rating clusters from a Kmeans clustering vs. primary category is below.*
+![](figures/primary.svg)
